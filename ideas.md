@@ -1,6 +1,9 @@
 This file contains all the ideas that are related
 to solve the problem statement
 
+# NOTE: THIS DOCUMENT WAS GENERATED USING CLAUDE.AI 
+## A PROPER HUMAN INTERVENTION WAS PRESENT DURING ITS PREPARATION
+
 # ML Approaches for Word Boundary Detection — Decoded
 
 > Context: Streaming character input with timing gaps. Goal: detect when a word starts and ends.
